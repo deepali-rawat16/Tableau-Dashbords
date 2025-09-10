@@ -1,1 +1,1 @@
-# Covid Data Dashboards
+# Covid Data Dashboard
